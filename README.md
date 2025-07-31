@@ -1,14 +1,10 @@
-## Hi there 👋
+
 
 <h1>Hi, I'm Michael Gray - Full Stack Engineer</h1>
-
-<hr>
 
 <p>I’m a software engineer with a strong foundation in user experience, product strategy, and team mentorship. With nearly a decade of experience across UX, teaching, and digital leadership, I now specialize in building full-stack applications that are intuitive, scalable, and grounded in real-world impact. My background includes launching startups, mentoring new technologists, and leading product initiatives that bridge the gap between design and engineering. I bring a rare blend of technical skill and human insight — combining user-centric thinking with the discipline of full-stack development.</p>
 
 <h1>Expertise & Experience </h1>
-
-<hr>
 
 <p><strong>Language & Framework</strong></p>
 <p>Java | JavaScript | React | Spring Boot</p>
@@ -16,7 +12,7 @@
 <p><strong>Front End</strong></p>
 <p>HTML | CSS </p>
 
-<p><strong>Databases/strong></p>
+<p><strong>Databases</strong></p>
 <p>PostgresSQL | MySQL | SQL | JBDC</p>
 
 <p><strong>Development Methodologies</strong></p>
